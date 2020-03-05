@@ -86,7 +86,7 @@ time_format: H:mm:ss
 
 # stylesheets loaded in the <head>
 stylesheets:
-  - https://anachronism1.github.io/nochivof/css/style.css
+  - /hexo-theme-Chic/css/style.css
 
 # scripts loaded in the end of the body
 scripts:
