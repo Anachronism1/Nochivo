@@ -85,18 +85,9 @@ page_title_enable: true
 date_format: MMMM D, YYYY
 time_format: H:mm:ss
 
-# (blog/_config.yml)
-
-# URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://anachronism1.github.io/blog/  # this is your deploy url.
-root: /hexo-theme-Chic/  # this is your root folder url.
-permalink: :year/:month/:day/:title/
-permalink_defaults:
-
 # stylesheets loaded in the <head>
 stylesheets:
-  - /css/style.css
+  - https://anachronism1.github.io/blog/css/style.css
 
 # scripts loaded in the end of the body
 scripts:
