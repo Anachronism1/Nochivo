@@ -1,5 +1,5 @@
 # Header
-navname: Nochivos
+navname: Bentham's Blog
 
 # navigatior items
 nav:
@@ -25,12 +25,12 @@ avatar: /image/avatar.jpeg
 links:
   Blog: /archives
 #  Category:
-#  Tags: 
+#  Tags:
 #  Link:
 #  Resume:
 #  Publish:
 #  Trophy:
-#  Gallery:
+#  Gallary:
 #  RSS:
 #  AliPay:
   ZhiHu: https://www.zhihu.com/people/sirice
@@ -70,7 +70,7 @@ post_copyright_permalink_enable: true
 post_copyright_license_enable: true
 post_copyright_license_text: Copyright (c) 2019 <a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE
 post_copyright_slogan_enable: true
-post_copyright_slogan_text: Do you believe in <strong>DESTINY</strong>?
+post_copyright_slogan_text: Do you believe in <strong>DESTINY<strong>?
 ## toc
 post_toc_enable: true
 
@@ -86,7 +86,7 @@ time_format: H:mm:ss
 
 # stylesheets loaded in the <head>
 stylesheets:
-  - https://anachronism1.github.io/Nochivof/css/style.css
+  - /css/style.css
 
 # scripts loaded in the end of the body
 scripts:
