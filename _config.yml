@@ -1,6 +1,8 @@
 # Header
 navname: Bentham's Blog
 
+url: https://anachronism1.github.io/blog
+root: /blog/ 
 
 # navigatior items
 nav:
