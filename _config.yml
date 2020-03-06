@@ -1,6 +1,7 @@
 # Header
 navname: Bentham's Blog
 
+
 # navigatior items
 nav:
   Posts: /archives
@@ -83,6 +84,15 @@ page_title_enable: true
 ## http://momentjs.com/docs/#/displaying/format/
 date_format: MMMM D, YYYY
 time_format: H:mm:ss
+
+# (blog/_config.yml)
+
+# URL
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+url: https://anachronism1.github.io/blog/  # this is your deploy url.
+root: /hexo-theme-Chic/  # this is your root folder url.
+permalink: :year/:month/:day/:title/
+permalink_defaults:
 
 # stylesheets loaded in the <head>
 stylesheets:
